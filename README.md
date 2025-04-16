@@ -58,7 +58,7 @@ A simple and user-friendly Python desktop application to **schedule and instantl
 ## 📸 GUI Preview
 
 <p align="center">
-  <img src="https://github.com/momina02/automating-whatsapp-messages/1.png" width="60%" alt="Screenshot" />
+  <img src="https://github.com/momina02/WhatsApp-Message-Automator/1.png" width="60%" alt="Screenshot" />
 </p>
 
 ---
