@@ -58,7 +58,7 @@ A simple and user-friendly Python desktop application to **schedule and instantl
 ## 📸 GUI Preview
 
 <p align="center">
-   ![App Screenshot](assets/1.png)
+  <img src="assets/1.png" alt="App Screenshot" width="50%" />
 </p>
 
 ---
