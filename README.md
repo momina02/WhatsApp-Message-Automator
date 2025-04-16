@@ -20,14 +20,6 @@ A simple and user-friendly Python desktop application to **schedule and instantl
 
 ---
 
-## 🖥️ Demo
-
-<p align="center">
-  <img src="https://github.com/momina02/automating-whatsapp-messages/assets/demo.gif" width="70%" alt="App Demo" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python 3.7+**
@@ -66,7 +58,7 @@ A simple and user-friendly Python desktop application to **schedule and instantl
 ## 📸 GUI Preview
 
 <p align="center">
-  <img src="https://github.com/momina02/automating-whatsapp-messages/assets/screenshot.png" width="60%" alt="Screenshot" />
+  <img src="https://github.com/momina02/automating-whatsapp-messages/1.png" width="60%" alt="Screenshot" />
 </p>
 
 ---
