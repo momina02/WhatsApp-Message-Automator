@@ -1,8 +1,4 @@
-Here's a complete and professional `README.md` for your project, including badges, features, installation, usage, and more. You can copy-paste and customize it if needed:
-
----
-
-# 📲 Automating WhatsApp Messages
+# 📲 WhatsApp Messages Automator
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange)](https://docs.python.org/3/library/tkinter.html)
@@ -27,7 +23,7 @@ A simple and user-friendly Python desktop application to **schedule and instantl
 ## 🖥️ Demo
 
 <p align="center">
-  <img src="https://github.com/yourusername/automating-whatsapp-messages/assets/demo.gif" width="70%" alt="App Demo" />
+  <img src="https://github.com/momina02/automating-whatsapp-messages/assets/demo.gif" width="70%" alt="App Demo" />
 </p>
 
 ---
@@ -44,7 +40,7 @@ A simple and user-friendly Python desktop application to **schedule and instantl
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/automating-whatsapp-messages.git
+   git clone https://github.com/momina02/WhatsApp-Message-Automator.git
    cd automating-whatsapp-messages
    ```
 
@@ -70,7 +66,7 @@ A simple and user-friendly Python desktop application to **schedule and instantl
 ## 📸 GUI Preview
 
 <p align="center">
-  <img src="https://github.com/yourusername/automating-whatsapp-messages/assets/screenshot.png" width="60%" alt="Screenshot" />
+  <img src="https://github.com/momina02/automating-whatsapp-messages/assets/screenshot.png" width="60%" alt="Screenshot" />
 </p>
 
 ---
@@ -88,11 +84,4 @@ Feel free to fork the repository and open a pull request.
 
 ---
 
-## 👩‍💻 Author
-
-**Momina**  
 Made with 💚 by a Python enthusiast automating everyday tasks.
-
----
-
-Let me know if you'd like help creating the demo GIF or screenshots too!
